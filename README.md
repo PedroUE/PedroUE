@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello! i'm Pedro Urbano. Welcome to my profile!
+- Studying at SENAI (Software develop)
+- I'm 16 years old
+- trained in UNREAL, AUTOCAD and JS
+- First year of technical course
+</p>
 
-<!--
-**PedroUE/PedroUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📒 Languages and Tools
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,unreal,discord,autocad)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+
+![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroUE&show_icons=true&theme=tokyonight)
