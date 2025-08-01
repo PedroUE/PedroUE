@@ -1,4 +1,4 @@
-# Hello! i'm Pedro Urbano. Welcome to my profile!
+# 👋Hello! i'm Pedro Urbano. Welcome to my profile!
 - Studying at SENAI (Software develop)
 - I'm 16 years old
 - trained in UNREAL, AUTOCAD and JS
