@@ -7,7 +7,7 @@
 
 ### 📒 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,unreal,discord,autocad,html,css,pgadmin4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,unreal,discord,autocad,html,css,postgres,vscode,npm)](https://skillicons.dev)
 
 ### 📊 Stats
 
