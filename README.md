@@ -7,7 +7,7 @@
 
 ### 📒 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,unreal,discord,autocad,html,css,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,unreal,discord,autocad,html,css,nodemon)](https://skillicons.dev)
 
 ### 📊 Stats
 
