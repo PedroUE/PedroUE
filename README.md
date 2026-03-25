@@ -4,7 +4,9 @@
 - trained in UNREAL, AUTOCAD and JS
 - First year of technical course
 </p>
-![image](https://github.com/user-attachments/assets/9c439ebd-bd0a-4c78-8e45-e283d6c710cb)
+
+![image](https://github.com/user-attachments/assets/6e3f803c-9711-43bc-9c5f-946359b36824)
+
 
 ### 📒 Languages and Tools
 
